@@ -17,6 +17,10 @@ main{
 	top: 50%;
 	transform: translateX(-50%) translateY(-50%);
 }
+footer , a{
+	color: #FFFFFF;
+	text-decoration: none;
+}
 .textview{
 	height: 50px;
 	width: 225px;
