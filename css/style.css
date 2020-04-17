@@ -1,0 +1,35 @@
+body{
+	background: -o-linear-gradient(left, #F307D2 0%, #A00BF5 37%, #630CFF 68%,#0F02FF 100%);
+    background: -moz-linear-gradient(left, #F307D2 0%, #A00BF5 37%, #630CFF 68%,#0F02FF 100%);
+    background: -ms-linear-gradient(left, #F307D2 0%, #A00BF5 37%, #630CFF 68%,#0F02FF 100%);
+    background: linear-gradient(to right,  #F307D2 0%, #A00BF5 37%, #630CFF 68%,#0F02FF 100%);
+}
+header h1{
+	text-transform: uppercase;
+	text-align: center;
+	padding-top: 60px;
+	font-size: 60px;
+	color: #FFFFFF;
+}
+main{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translateX(-50%) translateY(-50%);
+}
+.textview{
+	height: 50px;
+	width: 225px;
+	margin-bottom: 10px;
+	padding: 5px;
+	margin: 5px;
+}
+.button{
+	width: 50px;
+	height: 50px;
+	margin: 4px;
+	opacity: 0.9;
+}
+.button:hover{
+	opacity: 1;
+}
