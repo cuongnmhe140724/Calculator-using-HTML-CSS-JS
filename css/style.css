@@ -1,8 +1,8 @@
 body{
 	background: -o-linear-gradient(left, #F307D2 0%, #A00BF5 37%, #630CFF 68%,#0F02FF 100%);
-    background: -moz-linear-gradient(left, #F307D2 0%, #A00BF5 37%, #630CFF 68%,#0F02FF 100%);
-    background: -ms-linear-gradient(left, #F307D2 0%, #A00BF5 37%, #630CFF 68%,#0F02FF 100%);
-    background: linear-gradient(to right,  #F307D2 0%, #A00BF5 37%, #630CFF 68%,#0F02FF 100%);
+	background: -moz-linear-gradient(left, #F307D2 0%, #A00BF5 37%, #630CFF 68%,#0F02FF 100%);
+	background: -ms-linear-gradient(left, #F307D2 0%, #A00BF5 37%, #630CFF 68%,#0F02FF 100%);
+	background: linear-gradient(to right,  #F307D2 0%, #A00BF5 37%, #630CFF 68%,#0F02FF 100%);
 }
 header h1{
 	text-transform: uppercase;
